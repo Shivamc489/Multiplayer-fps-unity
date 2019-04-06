@@ -1,0 +1,99 @@
+newmtl FactoryDetails
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd FactoryDetailsGlass.jpg
+d 1
+newmtl FactoryMainDoor
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd FactoryFrontDoor.jpg
+d 1
+newmtl FactoryPath
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd FactoryPath.jpg
+d 1
+newmtl FactoryGlass
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.291262
+newmtl FactorySigns
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd FactorySigns.jpg
+d 1
+newmtl FactoryPanels4
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd FactoryPanels.jpg
+d 1
+newmtl FactoryFrame
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd FactoryPanels.jpg
+d 1
+newmtl FactoryPanels3
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd FactoryPanels.jpg
+d 1
+newmtl FactoryBrick1
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd FactoryBrick1.jpg
+map_Bump  FactoryBrick1Bump.jpg
+d 1
+newmtl FactoryBrick2
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd FactoryBrick2.jpg
+map_Bump  FactoryBrick1Bump.jpg
+d 1
+newmtl FactoryPanels2
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd FactoryPanels.jpg
+d 1
+newmtl FactoryPanels1
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd FactoryPanels.jpg
+d 1
+newmtl FactoryRoofs
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd FactoryRoofs.jpg
+d 1
+newmtl FactoryInteriorWalls
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd FactoryInteriorWalls.jpg
+d 1

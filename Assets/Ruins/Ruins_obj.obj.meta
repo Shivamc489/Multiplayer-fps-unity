@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: d8694eea204594247879245aef6e608e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Buss_Buss1
+    100002: Buss_Grass
+    100004: Buss_Grass_141
+    100006: Buss_TrckGR1
+    100008: Oil_truck_Grass_14
+    100010: Oil_truck_Oil-truck
+    100012: Oil_truck_TrckGR
+    100014: Ruin1
+    100016: Ruin2
+    100018: Ruin3
+    100020: Ruin4
+    100022: //RootNode
+    100024: Truck_Grass_142
+    100026: Truck_TrckGR2
+    100028: Truck_Truck1
+    100030: water-tank
+    400000: Buss_Buss1
+    400002: Buss_Grass
+    400004: Buss_Grass_141
+    400006: Buss_TrckGR1
+    400008: Oil_truck_Grass_14
+    400010: Oil_truck_Oil-truck
+    400012: Oil_truck_TrckGR
+    400014: Ruin1
+    400016: Ruin2
+    400018: Ruin3
+    400020: Ruin4
+    400022: //RootNode
+    400024: Truck_Grass_142
+    400026: Truck_TrckGR2
+    400028: Truck_Truck1
+    400030: water-tank
+    2100000: Buss_Buss1Mat
+    2100002: Buss_GrassMat
+    2100004: Buss_Grass_141Mat
+    2100006: Buss_TrckGR1Mat
+    2100008: Oil_truck_Grass_14Mat
+    2100010: Oil_truck_Oil-truckMat
+    2100012: Oil_truck_TrckGRMat
+    2100014: Ruin1Mat
+    2100016: Ruin2Mat
+    2100018: Ruin3Mat
+    2100020: Ruin4Mat
+    2100022: Truck_Grass_142Mat
+    2100024: Truck_TrckGR2Mat
+    2100026: Truck_Truck1Mat
+    2100028: water-tankMat
+    2300000: Buss_Buss1
+    2300002: Buss_Grass
+    2300004: Buss_Grass_141
+    2300006: Buss_TrckGR1
+    2300008: Oil_truck_Grass_14
+    2300010: Oil_truck_Oil-truck
+    2300012: Oil_truck_TrckGR
+    2300014: Ruin1
+    2300016: Ruin2
+    2300018: Ruin3
+    2300020: Ruin4
+    2300022: Truck_Grass_142
+    2300024: Truck_TrckGR2
+    2300026: Truck_Truck1
+    2300028: water-tank
+    3300000: Buss_Buss1
+    3300002: Buss_Grass
+    3300004: Buss_Grass_141
+    3300006: Buss_TrckGR1
+    3300008: Oil_truck_Grass_14
+    3300010: Oil_truck_Oil-truck
+    3300012: Oil_truck_TrckGR
+    3300014: Ruin1
+    3300016: Ruin2
+    3300018: Ruin3
+    3300020: Ruin4
+    3300022: Truck_Grass_142
+    3300024: Truck_TrckGR2
+    3300026: Truck_Truck1
+    3300028: water-tank
+    4300000: Buss_Buss1
+    4300002: Buss_Grass
+    4300004: Buss_Grass_141
+    4300006: Buss_TrckGR1
+    4300008: Oil_truck_Grass_14
+    4300010: Oil_truck_Oil-truck
+    4300012: Oil_truck_TrckGR
+    4300014: Ruin1
+    4300016: Ruin2
+    4300018: Ruin3
+    4300020: Ruin4
+    4300022: Truck_Grass_142
+    4300024: Truck_TrckGR2
+    4300026: Truck_Truck1
+    4300028: water-tank
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
